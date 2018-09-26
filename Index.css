@@ -1,0 +1,28 @@
+h1 {
+  color: #930007;
+  text-align: center; }
+
+p {
+  color: green; }
+
+p, h1, h2, h3, h4, h5 {
+  margin-left: auto;
+  text-align: center;
+  font-family: cursive; }
+
+.dropdown {
+  margin-left: auto;
+  text-align: center;
+  display: inline-block;
+  position: relative; }
+
+.dropdown-content {
+  margin-left: auto;
+  text-align: center;
+  display: none;
+  position: absolute; }
+
+.dropdown:hover .dropdown-content {
+  display: block; }
+
+/*# sourceMappingURL=Index.css.map */
